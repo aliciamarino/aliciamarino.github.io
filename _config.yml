@@ -10,7 +10,7 @@ title: Alicia Marino
 email: aliciarmarino [at] gmail [dot] com
 description: Professor of Mathematics at the University of Hartford
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "https://aliciamarino.github.io" # the base hostname & protocol for your site
 twitter_username: 
 github_username:  aliciamarino
 paginate: 5
