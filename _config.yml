@@ -7,13 +7,13 @@
 
 # Site settings
 title: Alicia Marino
-email: aliciarmarino [at] gmail [dot] com
+email: marino [at] hartford [dot] edu
 description: Professor of Mathematics at University of Hartford
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://aliciamarino.github.io" # the base hostname & protocol for your site
 twitter_username: 
 github_username:  aliciamarino
-paginate: 5
+#paginate: 5
 
 gems: [jekyll-paginate, kramdown]
 # Build settings
